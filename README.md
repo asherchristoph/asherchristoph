@@ -21,9 +21,9 @@ I'm a passionate **Data Scientist** with experience in **Python, SQL, and Machin
 
 ## Featured Projects
 
-### [Project 1 Title](project_1_link)
+### [Computer Vision](https://github.com/asherchristoph/Data_projects_TripleTen/blob/main/ComputerVisionProject.ipynb)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Computer Vision Screenshot](/Users/chrisasher/Desktop/Github/CopmuterVision_screenshot.png)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
