@@ -21,20 +21,18 @@ I'm a passionate **Data Scientist** with experience in **Python, SQL, and Machin
 
 ## Featured Projects
 
-### [Computer Vision](https://github.com/asherchristoph/Data_projects_TripleTen/blob/main/ComputerVisionProject.ipynb)
+### [Computer Vision](Data_projects_TripleTen/ComputerVisionProject.ipynb)
 
 ![Computer Vision Screenshot](assets/ComputerVision_screenshot.png)
 
-**Computer Vision Project** is a  built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Computer Vision Project** is an **age verification model** built with the **Tensorflow ResNet50 framework**. This project demonstrates my ability to **generate a script containing a concise, highly functioning model**. You can check out the repository [here](Data_projects_TripleTen/ComputerVisionProject.ipynb).
 
-### [Final Project](project_2_link)
+### [Final Project](Data_projects_TripleTen/FinalProject.ipynb)
 
 ![Project 2 Screenshot](assets/FinalProject_screenshot.png)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Final Project Interconnect** is a **churn-identification model for telecom operator Interconnect** built with **CatBoost model**. This project showcases my skills in **exploratory data analysis, database joining and splitting, model selection and hyperparameter tuning** to achieve the highest possible score within a reasonable timeframe. You can check out the repository [here](Data_projects_TripleTen/FinalProject_Interconnect.ipynb).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/asherchristopher)
