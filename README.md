@@ -21,17 +21,17 @@ I'm a passionate **Data Scientist** with experience in **Python, SQL, and Machin
 
 ## Featured Projects
 
-### [Computer Vision](ComputerVisionProject.ipynb)
+### [Computer Vision](asherchristoph/Data_projects_TriplTen/ComputerVisionProject.ipynb)
 
 ![Computer Vision Screenshot](assets/ComputerVision_screenshot.png)
 
-**Computer Vision Project** is an **age verification model** built with the **Tensorflow ResNet50 framework**. This project demonstrates my ability to **generate a script containing a concise, highly functioning model**. You can check out the repository [here](ComputerVisionProject.ipynb).
+**Computer Vision Project** is an **age verification model** built with the **Tensorflow ResNet50 framework**. This project demonstrates my ability to **generate a script containing a concise, highly functioning model**. You can check out the repository [here](asherchristoph/Data_projects_TripleTen/ComputerVisionProject.ipynb).
 
-### [Final Project](FinalProject_Interconnect.ipynb)
+### [Final Project](asherchristoph/Data_projects_TripleTen/FinalProject_Interconnect.ipynb)
 
 ![Project 2 Screenshot](assets/FinalProject_screenshot.png)
 
-**Final Project Interconnect** is a **churn-identification model for telecom operator Interconnect** built with **CatBoost model**. This project showcases my skills in **exploratory data analysis, database joining and splitting, model selection and hyperparameter tuning** to achieve the highest possible score within a reasonable timeframe. You can check out the repository [here](FinalProject_Interconnect.ipynb).
+**Final Project Interconnect** is a **churn-identification model for telecom operator Interconnect** built with **CatBoost model**. This project showcases my skills in **exploratory data analysis, database joining and splitting, model selection and hyperparameter tuning** to achieve the highest possible score within a reasonable timeframe. You can check out the repository [here](asherchristoph/Data_projects_TripleTen/FinalProject_Interconnect.ipynb).
 
 ## Get in Touch 📬
 
