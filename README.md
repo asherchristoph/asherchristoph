@@ -21,7 +21,7 @@ I'm a passionate **Data Scientist** with experience in **Python, SQL, and Machin
 
 ## Featured Projects
 
-### [Computer Vision](Data_projects_TriplTen/ComputerVisionProject.ipynb)
+### [Computer Vision](Data_projects_TripleTen/ComputerVisionProject.ipynb)
 
 ![Computer Vision Screenshot](assets/ComputerVision_screenshot.png)
 
