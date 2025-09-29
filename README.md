@@ -29,7 +29,7 @@ I'm a passionate **Data Scientist** with experience in **Python, SQL, and Machin
 
 ### [Final Project](https://github.com/asherchristoph/Data_projects_TripleTen/blob/main/FinalProject_Interconnect.ipynb)
 
-![Project 2 Screenshot](assets/FinalProject_screenshot.png)
+![Finla Project Screenshot](assets/FinalProject_screenshot.png)
 
 **Final Project Interconnect** is a **churn-identification model for telecom operator Interconnect** built with **CatBoost model**. This project showcases my skills in **exploratory data analysis, database joining and splitting, model selection and hyperparameter tuning** to achieve the highest possible score within a reasonable timeframe. You can check out the repository [here](https://github.com/asherchristoph/Data_projects_TripleTen/blob/main/FinalProject_Interconnect.ipynb).
 
